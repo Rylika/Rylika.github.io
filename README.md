@@ -1,4 +1,2 @@
-# Tetra Legends
-Tetromino stacker in HTML5
+Not mine --> Just a clone from https://github.com/zacharylohrman/tetralegends Tetra Legends
 
-Abandoned. Please see: https://github.com/zacharylohrman/tetrareborn
