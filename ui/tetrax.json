@@ -1,0 +1,21 @@
+{
+  "properties": {
+    "parent": "root",
+    "vox": "menutetrax"
+  },
+  "data": [
+    {
+      "string": "standardLabel",
+      "stringDesc": "standardDescription",
+      "default": true,
+      "action": "submenu",
+      "submenu": "mode/standardx"
+    },
+    {
+      "string": "proLabel",
+      "stringDesc": "proDescription",
+      "action": "submenu",
+      "submenu": "mode/prox"
+    }
+  ]
+}
